@@ -10,4 +10,4 @@
 - 講座で扱ったサンプルコード
 - 学習中に気づいたポイントや補足解説
 
-[学習ログ]()
+[学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)
