@@ -5,9 +5,4 @@
 **「現役シリコンバレーエンジニアが教える Python 3 入門 + 応用 + シリコンバレー流コードスタイル」**  
 を受講して学んだ内容を整理するためのリポジトリ群です。
 
-### 学習内容の整理ポイント
-- Python 3 の基礎文法から応用まで
-- 講座で扱ったサンプルコード
-- 学習中に気づいたポイントや補足解説
-
 [学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)
